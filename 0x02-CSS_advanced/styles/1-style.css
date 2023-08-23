@@ -1,16 +1,3 @@
 html {
     scroll-behavior: smooth;
 }
-body, a {
-    color: #161616;
-}
-
-/* Hidden elements */
-.visually-hidden {
-    display: none;
-}
-
-/* other classes */
-.card-category, .section-tagline {
-    color: #D73953;
-}

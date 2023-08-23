@@ -13,7 +13,7 @@ html {
 }
 
 body, a {
-    color: #161616;
+    color: var(--text-color);
 }
 
 /* Hidden elements */

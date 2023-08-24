@@ -117,7 +117,7 @@ a:active {
 }
 
 /* sections */
-section {
+.section {
     padding: var(--section-padding);
 }
 
@@ -161,6 +161,6 @@ section {
 }
 
 /* footer */
-footer {
+.footer {
     padding: var(--footer-padding);
 }

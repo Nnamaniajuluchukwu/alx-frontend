@@ -38,7 +38,8 @@ template{display: none;}
 /*# sourceMappingURL=normalize.min.css.map */
 
 /* universal box sizing */
-* {
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
